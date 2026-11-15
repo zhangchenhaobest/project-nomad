@@ -1,3 +1,29 @@
+# project-nomad
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+离线优先的知识与教育服务器，内置维基百科、数千本书、课程、地图与可选本地 AI。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 <div align="center">
 <img src="admin/public/nomad-primary.svg" width="200" alt="Project NOMAD"/>
 
